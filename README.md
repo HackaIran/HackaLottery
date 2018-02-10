@@ -1,2 +1,2 @@
-# HackaLottery
-(working on progress)
+# Paper.IO
+Paper.IO game with javascript
