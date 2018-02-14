@@ -1,2 +1,2 @@
-# Paper.IO
-Paper.IO game with javascript
+# HackaLotter
+A system for hacka`s lotteries.
